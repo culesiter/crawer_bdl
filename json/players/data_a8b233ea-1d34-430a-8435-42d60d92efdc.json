@@ -1,0 +1,242 @@
+[
+	{
+		"id": 189848,
+		"name": "Jorn Pedersen",
+		"name_second": "Jorn Pedersen"
+	},
+	{
+		"id": 272153,
+		"name": "Jukiya Fujishima",
+		"name_second": "Jukiya Fujishima"
+	},
+	{
+		"id": 98928,
+		"name": "Ryogo Kaburagi",
+		"name_second": "Ryogo Kaburagi"
+	},
+	{
+		"id": 98929,
+		"name": "Kazuma Inoue",
+		"name_second": "Kazuma Inoue"
+	},
+	{
+		"id": 189841,
+		"name": "Ren Furuyama",
+		"name_second": "Ren Furuyama"
+	},
+	{
+		"id": 189842,
+		"name": "Promise Ugochukwu",
+		"name_second": "Promise Ugochukwu"
+	},
+	{
+		"id": 120274,
+		"name": "Elsamni Osama",
+		"name_second": "Elsamni Osama"
+	},
+	{
+		"id": 131428,
+		"name": "Kazuya Nakayama",
+		"name_second": "Kazuya Nakayama"
+	},
+	{
+		"id": 98930,
+		"name": "Tooru Iwasawa",
+		"name_second": "Tooru Iwasawa"
+	},
+	{
+		"id": 189844,
+		"name": "Takamasa Abiko",
+		"name_second": "Takamasa Abiko"
+	},
+	{
+		"id": 144465,
+		"name": "Yusei Kayanuma",
+		"name_second": "Yusei Kayanuma"
+	},
+	{
+		"id": 202132,
+		"name": "Luqman Hakim",
+		"name_second": "Luqman Hakim"
+	},
+	{
+		"id": 165817,
+		"name": "Kento Dodate",
+		"name_second": "Kento Dodate"
+	},
+	{
+		"id": 264283,
+		"name": "Atsushi Kikutani",
+		"name_second": "Atsushi Kikutani"
+	},
+	{
+		"id": 189832,
+		"name": "Yutaro Yanagi",
+		"name_second": "Yutaro Yanagi"
+	},
+	{
+		"id": 86635,
+		"name": "Akio Yoshida",
+		"name_second": "Akio Yoshida"
+	},
+	{
+		"id": 264256,
+		"name": "Ryohei Wakizaka",
+		"name_second": "Ryohei Wakizaka"
+	},
+	{
+		"id": 264258,
+		"name": "Yasuto Fujita",
+		"name_second": "Yasuto Fujita"
+	},
+	{
+		"id": 98933,
+		"name": "Manabu WATANABE",
+		"name_second": "Manabu WATANABE"
+	},
+	{
+		"id": 189833,
+		"name": "Kanta Wada",
+		"name_second": "Kanta Wada"
+	},
+	{
+		"id": 189834,
+		"name": "Diego Taba",
+		"name_second": "Diego Taba"
+	},
+	{
+		"id": 189837,
+		"name": "Shoto Ashino",
+		"name_second": "Shoto Ashino"
+	},
+	{
+		"id": 264280,
+		"name": "Yushin Otake",
+		"name_second": "Yushin Otake"
+	},
+	{
+		"id": 262114,
+		"name": "Hiroto Domoto",
+		"name_second": "Hiroto Domoto"
+	},
+	{
+		"id": 131431,
+		"name": "Keisuke Kuroji",
+		"name_second": "Keisuke Kuroji"
+	},
+	{
+		"id": 131432,
+		"name": "Masaya Yamamoto",
+		"name_second": "Masaya Yamamoto"
+	},
+	{
+		"id": 131433,
+		"name": "Sotaro Izumi",
+		"name_second": "Sotaro Izumi"
+	},
+	{
+		"id": 98936,
+		"name": "Yumu Kudo",
+		"name_second": "Yumu Kudo"
+	},
+	{
+		"id": 189836,
+		"name": "Han Jae Min",
+		"name_second": "Han Jae Min"
+	},
+	{
+		"id": 161478,
+		"name": "Ryotaro Yamamoto",
+		"name_second": "Ryotaro Yamamoto"
+	},
+	{
+		"id": 206175,
+		"name": "Koji Okumura",
+		"name_second": "Koji Okumura"
+	},
+	{
+		"id": 97235,
+		"name": "Shuto Kojima",
+		"name_second": "Shuto Kojima"
+	},
+	{
+		"id": 99632,
+		"name": "Takahiro Nakazato",
+		"name_second": "Takahiro Nakazato"
+	},
+	{
+		"id": 206158,
+		"name": "Rikuto Hashimoto",
+		"name_second": "Rikuto Hashimoto"
+	},
+	{
+		"id": 98937,
+		"name": "Mitsuki Watanabe",
+		"name_second": "Mitsuki Watanabe"
+	},
+	{
+		"id": 189868,
+		"name": "Takuya Fujiwara",
+		"name_second": "Takuya Fujiwara"
+	},
+	{
+		"id": 251041,
+		"name": "Haruki Oshima",
+		"name_second": "Haruki Oshima"
+	},
+	{
+		"id": 264285,
+		"name": "Takuma Hashino",
+		"name_second": "Takuma Hashino"
+	},
+	{
+		"id": 131435,
+		"name": "Hayate Yoshida",
+		"name_second": "Hayate Yoshida"
+	},
+	{
+		"id": 98946,
+		"name": "Shyunta Nishiyama",
+		"name_second": "Shyunta Nishiyama"
+	},
+	{
+		"id": 264257,
+		"name": "Hiroto Okoshi",
+		"name_second": "Hiroto Okoshi"
+	},
+	{
+		"id": 111831,
+		"name": "Goki Tomozawa",
+		"name_second": "Goki Tomozawa"
+	},
+	{
+		"id": 172688,
+		"name": "Minoru Hanafusa",
+		"name_second": "Minoru Hanafusa"
+	},
+	{
+		"id": 232567,
+		"name": "Shawn van Eerden",
+		"name_second": "Shawn van Eerden"
+	},
+	{
+		"id": 120277,
+		"name": "Toshihide Hirata",
+		"name_second": "Toshihide Hirata"
+	},
+	{
+		"id": 131438,
+		"name": "Kenji Moriyama",
+		"name_second": "Kenji Moriyama"
+	},
+	{
+		"id": 189747,
+		"name": "Michiya Okamoto",
+		"name_second": "Michiya Okamoto"
+	},
+	{
+		"id": 120278,
+		"name": "Takeyuki Yoshikawa",
+		"name_second": "Takeyuki Yoshikawa"
+	}
+]

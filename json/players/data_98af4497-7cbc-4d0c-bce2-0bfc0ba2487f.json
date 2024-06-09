@@ -1,0 +1,52 @@
+[
+	{
+		"id": 207959,
+		"name": "Ivan Korshunov",
+		"name_second": "Ivan Korshunov"
+	},
+	{
+		"id": 214904,
+		"name": "Nikita Tankov",
+		"name_second": "Nikita Tankov"
+	},
+	{
+		"id": 243807,
+		"name": "Alexander Korenblyum",
+		"name_second": "Alexander Korenblyum"
+	},
+	{
+		"id": 278877,
+		"name": "Dmitry Shilov",
+		"name_second": "Dmitry Shilov"
+	},
+	{
+		"id": 243815,
+		"name": "Akim Ustinov",
+		"name_second": "Akim Ustinov"
+	},
+	{
+		"id": 243804,
+		"name": "Artyom Pikarev",
+		"name_second": "Artyom Pikarev"
+	},
+	{
+		"id": 176206,
+		"name": "Ivan Andreev",
+		"name_second": "Ivan Andreev"
+	},
+	{
+		"id": 270781,
+		"name": "Roman Khadzhiev",
+		"name_second": "Roman Khadzhiev"
+	},
+	{
+		"id": 169001,
+		"name": "Aleksey Plotnikov",
+		"name_second": "Aleksey Plotnikov"
+	},
+	{
+		"id": 208086,
+		"name": "Nikolay Zirikov",
+		"name_second": "Nikolay Zirikov"
+	}
+]

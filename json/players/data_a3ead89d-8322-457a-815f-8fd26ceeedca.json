@@ -1,0 +1,82 @@
+[
+	{
+		"id": 156386,
+		"name": "Bence Daru",
+		"name_second": "Bence Daru"
+	},
+	{
+		"id": 166609,
+		"name": "Peter Horvath",
+		"name_second": "Peter Horvath"
+	},
+	{
+		"id": 247796,
+		"name": "Zoltan Toth",
+		"name_second": "Zoltan Toth"
+	},
+	{
+		"id": 247806,
+		"name": "Adin Molnar",
+		"name_second": "Adin Molnar"
+	},
+	{
+		"id": 258614,
+		"name": "Tamas Turi",
+		"name_second": "Tamas Turi"
+	},
+	{
+		"id": 260113,
+		"name": "Kostas",
+		"name_second": "Kostas"
+	},
+	{
+		"id": 188567,
+		"name": "Erik Nagy",
+		"name_second": "Erik Nagy"
+	},
+	{
+		"id": 189447,
+		"name": "Krisztian Kirchner",
+		"name_second": "Krisztian Kirchner"
+	},
+	{
+		"id": 183514,
+		"name": "Roland Schuszter",
+		"name_second": "Roland Schuszter"
+	},
+	{
+		"id": 269299,
+		"name": "Szabolcs Furedi",
+		"name_second": "Szabolcs Furedi"
+	},
+	{
+		"id": 272654,
+		"name": "Barnabas Kozics",
+		"name_second": "Barnabas Kozics"
+	},
+	{
+		"id": 271106,
+		"name": "Mate Nagy",
+		"name_second": "Mate Nagy"
+	},
+	{
+		"id": 258790,
+		"name": "Daniel Horvath",
+		"name_second": "Daniel Horvath"
+	},
+	{
+		"id": 228001,
+		"name": "Milan Sagi",
+		"name_second": "Milan Sagi"
+	},
+	{
+		"id": 262552,
+		"name": "Gergo Gajag",
+		"name_second": "Gergo Gajag"
+	},
+	{
+		"id": 272649,
+		"name": "Soma Lekai",
+		"name_second": "Soma Lekai"
+	}
+]

@@ -1,0 +1,92 @@
+[
+	{
+		"id": 201405,
+		"name": "Denis Alijagic",
+		"name_second": "Denis Alijagic"
+	},
+	{
+		"id": 163695,
+		"name": "Tomas Zlatohlavek",
+		"name_second": "Tomas Zlatohlavek"
+	},
+	{
+		"id": 148272,
+		"name": "Filip Havelka",
+		"name_second": "Filip Havelka"
+	},
+	{
+		"id": 193758,
+		"name": "Lukas Cerv",
+		"name_second": "Lukas Cerv"
+	},
+	{
+		"id": 173005,
+		"name": "Jan Zamburek",
+		"name_second": "Jan Zamburek"
+	},
+	{
+		"id": 226193,
+		"name": "Marek Icha",
+		"name_second": "Marek Icha"
+	},
+	{
+		"id": 210860,
+		"name": "Christophe Kabongo",
+		"name_second": "Christophe Kabongo"
+	},
+	{
+		"id": 167722,
+		"name": "Matej Valenta",
+		"name_second": "Matej Valenta"
+	},
+	{
+		"id": 201639,
+		"name": "Jakub Kristan",
+		"name_second": "Jakub Kristan"
+	},
+	{
+		"id": 177298,
+		"name": "David Heidenreich",
+		"name_second": "David Heidenreich"
+	},
+	{
+		"id": 199326,
+		"name": "Matyas Kozak",
+		"name_second": "Matyas Kozak"
+	},
+	{
+		"id": 210248,
+		"name": "Adam Kadlec",
+		"name_second": "Adam Kadlec"
+	},
+	{
+		"id": 177914,
+		"name": "Jakub Kolar",
+		"name_second": "Jakub Kolar"
+	},
+	{
+		"id": 132428,
+		"name": "Matej Helesic",
+		"name_second": "Matej Helesic"
+	},
+	{
+		"id": 222306,
+		"name": "Martin Suchomel",
+		"name_second": "Martin Suchomel"
+	},
+	{
+		"id": 171484,
+		"name": "Michal Fukala",
+		"name_second": "Michal Fukala"
+	},
+	{
+		"id": 199701,
+		"name": "Lukas Hornicek",
+		"name_second": "Lukas Hornicek"
+	},
+	{
+		"id": 177289,
+		"name": "Jakub Markovic",
+		"name_second": "Jakub Markovic"
+	}
+]

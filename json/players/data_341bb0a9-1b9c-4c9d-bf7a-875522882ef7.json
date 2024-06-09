@@ -1,0 +1,77 @@
+[
+	{
+		"id": 280096,
+		"name": "Markus Ottesen",
+		"name_second": "Markus Ottesen"
+	},
+	{
+		"id": 131551,
+		"name": "Havard Dalseth",
+		"name_second": "Havard Dalseth"
+	},
+	{
+		"id": 272277,
+		"name": "Mads Badsvik",
+		"name_second": "Mads Badsvik"
+	},
+	{
+		"id": 273311,
+		"name": "Jonas Jorde",
+		"name_second": "Jonas Jorde"
+	},
+	{
+		"id": 273343,
+		"name": "Elias Hagadokken Lenoci",
+		"name_second": "Elias Hagadokken Lenoci"
+	},
+	{
+		"id": 131549,
+		"name": "Misim Memishi",
+		"name_second": "Misim Memishi"
+	},
+	{
+		"id": 280106,
+		"name": "Natnael Tomas",
+		"name_second": "Natnael Tomas"
+	},
+	{
+		"id": 273279,
+		"name": "Emil Henning",
+		"name_second": "Emil Henning"
+	},
+	{
+		"id": 132321,
+		"name": "Havard Haugen Dalseth",
+		"name_second": "Havard Haugen Dalseth"
+	},
+	{
+		"id": 277114,
+		"name": "Mikael Larsen",
+		"name_second": "Mikael Larsen"
+	},
+	{
+		"id": 131544,
+		"name": "Halvor Raddum",
+		"name_second": "Halvor Raddum"
+	},
+	{
+		"id": 272346,
+		"name": "Eirik Brekke",
+		"name_second": "Eirik Brekke"
+	},
+	{
+		"id": 277284,
+		"name": "Hans Lauritz Ruud",
+		"name_second": "Hans Lauritz Ruud"
+	},
+	{
+		"id": 273340,
+		"name": "Rene Elshaug",
+		"name_second": "Rene Elshaug"
+	},
+	{
+		"id": 131539,
+		"name": "Marius Helstad",
+		"name_second": "Marius Helstad"
+	}
+]

@@ -1,0 +1,187 @@
+[
+	{
+		"id": 203778,
+		"name": "Kaide Gordon",
+		"name_second": "Kaide Gordon"
+	},
+	{
+		"id": 221058,
+		"name": "Ben Doak",
+		"name_second": "Ben Doak"
+	},
+	{
+		"id": 255848,
+		"name": "Jayden Danns",
+		"name_second": "Jayden Danns"
+	},
+	{
+		"id": 220739,
+		"name": "Mateusz Musialowski",
+		"name_second": "Mateusz Musialowski"
+	},
+	{
+		"id": 244326,
+		"name": "Amara Nallo",
+		"name_second": "Amara Nallo"
+	},
+	{
+		"id": 70104,
+		"name": "Thiago Alcantara do Nascimento",
+		"name_second": "Thiago Alcantara do Nascimento"
+	},
+	{
+		"id": 254143,
+		"name": "Thomas Hill",
+		"name_second": "Thomas Hill"
+	},
+	{
+		"id": 251896,
+		"name": "Louie Koumas",
+		"name_second": "Louie Koumas"
+	},
+	{
+		"id": 158778,
+		"name": "Alexis Mac Allister",
+		"name_second": "Alexis Mac Allister"
+	},
+	{
+		"id": 244325,
+		"name": "Trey Nyoni",
+		"name_second": "Trey Nyoni"
+	},
+	{
+		"id": 228571,
+		"name": "Bobby Clark",
+		"name_second": "Bobby Clark"
+	},
+	{
+		"id": 228182,
+		"name": "Stefan Bajcetic",
+		"name_second": "Stefan Bajcetic"
+	},
+	{
+		"id": 239387,
+		"name": "James Mcconnell",
+		"name_second": "James Mcconnell"
+	},
+	{
+		"id": 159607,
+		"name": "Luis Fernando Diaz Marulanda",
+		"name_second": "Luis Fernando Diaz Marulanda"
+	},
+	{
+		"id": 153941,
+		"name": "Dominik Szoboszlai",
+		"name_second": "Dominik Szoboszlai"
+	},
+	{
+		"id": 174011,
+		"name": "Darwin Gabriel Nunez Ribeiro",
+		"name_second": "Darwin Gabriel Nunez Ribeiro"
+	},
+	{
+		"id": 100443,
+		"name": "Mohamed Salah Ghaly",
+		"name_second": "Mohamed Salah Ghaly"
+	},
+	{
+		"id": 117056,
+		"name": "Curtis Jones",
+		"name_second": "Curtis Jones"
+	},
+	{
+		"id": 156252,
+		"name": "Cody Gakpo",
+		"name_second": "Cody Gakpo"
+	},
+	{
+		"id": 175078,
+		"name": "Harvey Elliott",
+		"name_second": "Harvey Elliott"
+	},
+	{
+		"id": 125407,
+		"name": "Diogo Jota",
+		"name_second": "Diogo Jota"
+	},
+	{
+		"id": 83951,
+		"name": "Wataru Endo",
+		"name_second": "Wataru Endo"
+	},
+	{
+		"id": 169765,
+		"name": "Ryan Jiro Gravenberch",
+		"name_second": "Ryan Jiro Gravenberch"
+	},
+	{
+		"id": 124365,
+		"name": "Joseph Gomez",
+		"name_second": "Joseph Gomez"
+	},
+	{
+		"id": 242429,
+		"name": "Calum Scanlon",
+		"name_second": "Calum Scanlon"
+	},
+	{
+		"id": 82022,
+		"name": "Virgil van Dijk",
+		"name_second": "Virgil van Dijk"
+	},
+	{
+		"id": 150617,
+		"name": "Ibrahima Konate",
+		"name_second": "Ibrahima Konate"
+	},
+	{
+		"id": 142547,
+		"name": "Konstantinos Tsimikas",
+		"name_second": "Konstantinos Tsimikas"
+	},
+	{
+		"id": 106066,
+		"name": "Andrew Robertson",
+		"name_second": "Andrew Robertson"
+	},
+	{
+		"id": 60856,
+		"name": "Joel Matip",
+		"name_second": "Joel Matip"
+	},
+	{
+		"id": 145108,
+		"name": "Trent Arnold",
+		"name_second": "Trent Arnold"
+	},
+	{
+		"id": 221000,
+		"name": "Jarell Quansah",
+		"name_second": "Jarell Quansah"
+	},
+	{
+		"id": 213682,
+		"name": "Conor Bradley",
+		"name_second": "Conor Bradley"
+	},
+	{
+		"id": 113213,
+		"name": "Alisson Becker",
+		"name_second": "Alisson Becker"
+	},
+	{
+		"id": 241700,
+		"name": "Fabian Mrozek",
+		"name_second": "Fabian Mrozek"
+	},
+	{
+		"id": 106155,
+		"name": "Adrian San Miguel del Castillo",
+		"name_second": "Adrian San Miguel del Castillo"
+	},
+	{
+		"id": 166669,
+		"name": "Caoimhin Kelleher",
+		"name_second": "Caoimhin Kelleher"
+	}
+]
